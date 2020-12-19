@@ -308,6 +308,12 @@
         <artifactId>reflections</artifactId>
         <version>0.9.12</version>
     </dependency>
+    <!-- 나의 커스텀 체크 -->
+    <dependency>
+		<groupId>app.my</groupId>
+		<artifactId>checkstyle-custom</artifactId>
+        <version>0.0.1-SNAPSHOT</version>
+    </dependency>
   </dependencies>
 
   <build>
